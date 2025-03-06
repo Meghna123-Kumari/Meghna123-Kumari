@@ -20,7 +20,7 @@ May 2023 - Present
 *Bachelor of Commerce*  
 July 2017 - Mar 2020  
 
-### S Baldwin Academy School , Patna, India  
+### Baldwin Academy School, Patna, India  
 *Higher Secondary (Class XII)*  
 June 2016 - June 2017  
 
