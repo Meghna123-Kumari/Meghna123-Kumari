@@ -53,6 +53,17 @@ Feb 2024 – May 2024
 - Developed regression models to analyze liver patient vitals using historical data.
 - Implemented data-driven strategies to enhance medical decisions.
 
+### *[Relative Valuation of Divis Laboratory ltd] (Nov 2024)
+-Conducted a relative valuation of Davis Laboratory using key financial multiples such as P/E, EV/EBITDA, and P/B. Analyzed industry benchmarks to assess the company’s fair market value, providing data- 
+ driven insights for investment decisions. 
+-Applied financial modeling techniques to ensure accurate valuation and comparative analysis within the industry landscape.
+  
+
+### *[Discounted Cashflow Model] (Aug 2024)
+-Performed DCF valuation for a hypothetical company by projecting future cash flows, discounting them using an appropriate WACC, and determining intrinsic value. Conducted sensitivity analysis on key 
+ assumptions, including growth rate and discount rate, to assess valuation impact. 
+-Ensured accuracy through detailed financial modeling and industry benchmarking for strategic insights.
+
 ---
 
 ## *Certifications & Achievements*
